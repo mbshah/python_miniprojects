@@ -3,9 +3,9 @@ import requests
 
 
 
-rest_key="yvofkie1f17e7uqh12lxdieioc4micfg"
-oa_key="mjXZOTPsxrsvhZ2HtviQJHEoYmeMJDhGaLShPs684W5qf9qCNl8OaZFmJlFMrRYctO7ULr9gn-ds58IoFHeWSg=="
-oa_key_s="QwBCJ01mbSMuIRC0qAf6ax1ACxayuzSRXTkkOk7lTysEvIDe5LiwBO6ytbytXKdSFgepAkbMUQ48kXB3p1ZgPl581nrU_BXj"
+rest_key="yvofkie1f17e7uqh12lxdieioc4micfgs"
+oa_key="mjXZOTPsxrsvhZ2HtviQJHEoYmeMJDhGaLShPs684W5qf9qCNl8OaZFmJlFMrRYctO7ULr9gn-ds58IoFHeWSg==a"
+oa_key_s="QwBCJ01mbSMuIRC0qAf6ax1ACxayuzSRXTkkOk7lTysEvIDe5LiwBO6ytbytXKdSFgepAkbMUQ48kXB3p1ZgPl581nrU_BXjd"
 baseurl_rest="https://apis.mapmyindia.com/advancedmaps/v1/"
 baseurl_oa="https://atlas.mapmyindia.com/api/places/search/json?"
 oauth_token_type=None
