@@ -2,10 +2,10 @@ import tweepy
 import json
 
 #keys_from twitter developers
-consumer_key = "LMMPJnWG6XRteQKKxLuSZn8GU"
-consumer_secret = "MTW7rK5c3ZJkCaelfnHfCoxwU9J9NF1kawW2VnT3rd5gyCWHoY"
-access_key = "74116398-czOwcbPjQzDnFa2ONmKsTM6g0xgoiuHQDh3LxVnRQ"
-access_secret = "FO7Svk6RZeDiJHa1fI8QR3PXibXaVRFfa7zEIAD7hWx6n"
+consumer_key = "1LMMPJnWG6XRteQKKxLuSZn8GU"
+consumer_secret = "MTW7rK5c3ZJkCaelfnHfCoxwU9J9NF1kawW2VnT3rd5gyCWHoY2"
+access_key = "374116398-czOwcbPjQzDnFa2ONmKsTM6g0xgoiuHQDh3LxVnRQ"
+access_secret = "FO7Svk6RZeDiJHa1fI8QR3PXibXaVRFfa7zEIAD7hWx6n4"
 
 
 # Function to extract tweets
